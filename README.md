@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saintdavidking
+- 👋 Hi, I’m @Davidking
 - 👀 I’m interested in leaning python, web development 
 - 🌱 I’m currently learning python programming language 
 - 💞️ I’m looking to collaborate on python related courses
